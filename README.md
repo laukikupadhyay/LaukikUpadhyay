@@ -12,9 +12,9 @@
 </h4>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laukikupadhyay&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=laukikupadhyay" height="150" alt="languages graph" />
-  <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=laukikupadhyay&theme=merko&border_radius=5&card_width=500&type=png" alt="streak stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=laukikupadhyay&theme=merko&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laukikupadhyay&theme=merko&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />   
+  <img align="center" height="150" src="https://streak-stats.demolab.com?user=laukikupadhyay&theme=merko&border_radius=50" alt="streak stats" />
 </div>
 
 
